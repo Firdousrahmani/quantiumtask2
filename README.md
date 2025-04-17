@@ -2,7 +2,7 @@
 
 
 ##  Project Title: Trial Store Layout Analysis & Sales Uplift Evaluation
-dashboard![
+dashboard![insights](https://github.com/Firdousrahmani/quantiumtask2/blob/main/barchart.png)
 
 This project is part of the **Quantium Virtual Internship** offered on Forage. In Task 2, I stepped into the role of a **Retail Data Analyst**,
 tasked with evaluating the performance of **trial store layouts** and determining whether they resulted in an **uplift in sales**.
@@ -96,14 +96,11 @@ My goal was to assess the trial's success by:
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 www.linkedin.com/in/firdousrahmani
 
-**👤 Firdous Rahmani**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
-📂 [Portfolio or GitHub Profile]
 
----
+
+
 
 ## 📎 Tags
 
