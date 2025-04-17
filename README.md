@@ -83,7 +83,9 @@ My goal was to assess the trial's success by:
 
 ##  Final Recommendation
 
-> “Roll out the new layout to more stores, and re-evaluate in 3 months to ensure the uplift sustains over time.”
+> “The new store layout seems to be working well. Sales, products sold, repeat customers, and average transactions per customer have
+>  all gone up. This shows that ""trial stores"" are doing better than control stores. My recommendation is to add more trial stores
+> and check the performance again in 3 months to see if the sales stay high and stable.”
 
 ---
 
