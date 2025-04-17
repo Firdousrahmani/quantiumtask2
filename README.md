@@ -102,7 +102,6 @@ My goal was to assess the trial's success by:
 
 
 
-## 📎 Tags
 
 `#DataAnalytics` `#Python` `#Pandas` `#Seaborn` `#A/BTesting` `#RetailAnalytics` `#Quantium` `#GitHubPortfolio` `#VirtualInternship`
 
